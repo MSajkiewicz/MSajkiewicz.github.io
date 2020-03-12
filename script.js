@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'http://limitless-spire-58983.herokuapp.com/task/';
+  var apiRoot = 'https://limitless-spire-58983.herokuapp.com/task/';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
